@@ -5,7 +5,7 @@
         "src/**/*",
         "src/**/*.vue",
         "themeConfig.ts"
-    ],
+, "buildstaff/vite.config.js"    ],
     "exclude": [
         "dist",
         "node_modules",
